@@ -25,7 +25,7 @@
     "ember-cli-babel": "^6.16.0",
     "ember-cli-deploy-plugin": "^0.2.0",
     "rsvp": "^3.5.0",
-    "ssh2": "^0.4.12",
+    "ssh2": "^1.15.0",
     "untildify": "^2.1.0"
   },
   "devDependencies": {
